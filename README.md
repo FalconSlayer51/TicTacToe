@@ -22,4 +22,4 @@ It's like playing against a very determined robot that read a book titled *"TicT
 ## 💻 Installation  
 1. Clone the repository (because who doesn't want this masterpiece on their computer?):  
    ```bash
-   git clone https://github.com/YourUsername/TicTacToe.git
+   git clone https://github.com/FalconSlayer51/TicTacToe.git
