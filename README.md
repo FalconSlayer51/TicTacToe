@@ -1,6 +1,6 @@
 # TicTacToe: The If-Else Wizardry 🧙‍♂️  
 
-Welcome to **TicTacToe AI**, the groundbreaking, cutting-edge implementation of artificial intelligence built entirely with... wait for it... **if-else statements**. Yes, you read that right. This isn't just any AI; it's the AI your computer science professor warned you about.  
+Welcome to **TicTacToe**, the groundbreaking, cutting-edge implementation of artificial intelligence built entirely with... wait for it... **if-else statements**. Yes, you read that right. This isn't just any AI; it's the AI your computer science professor warned you about.  
 
 ## 🎮 What is This?  
 It's a TicTacToe game, but with a twist: the "AI" opponent has been crafted with an artistic collection of if-else statements. Forget about boring things like neural networks or Minimax algorithms; this is where true *engineering magic* happens.  
